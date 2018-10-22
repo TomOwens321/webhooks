@@ -1,4 +1,4 @@
-import json
+# github.com:briandconnelly/pyfttt
 import requests
 
 payload = {
